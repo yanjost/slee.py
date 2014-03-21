@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+
+# Original code comes from https://gist.github.com/BobNisco/8703662
+
 import os
 import sys
 import time
